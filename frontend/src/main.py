@@ -4,7 +4,7 @@ from components.sidebar import SideBar
 
 
 def main(page: ft.Page):
-    page.title = "AppBar Example"
+    page.title = "Warehouse"
 
     # Creamos la instancia de nuestra TopBar personalizada
     page.appbar = TopBar()
